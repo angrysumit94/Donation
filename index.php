@@ -1,1 +1,1 @@
-<?php include_once("templates/donation.html"); ?>
+<?php include_once("donation.html"); ?>
