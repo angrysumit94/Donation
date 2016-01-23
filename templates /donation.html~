@@ -1,0 +1,72 @@
+ <!DOCTYPE html>
+ <HEAD>
+<TITLE>Sumit Rawat</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="WHITE">
+<CENTER>
+<H1>Hi,I am Sumit and I need your help</H1>
+
+ 
+
+  <IMG SRC="sumit-5.jpg">
+  	<h4>I am the one in red T shirt</h4>
+  	
+
+ 
+
+ 
+
+  
+
+<H2>I recently graduated in Computer Science Major from India.</H2>
+
+
+
+I am financialy  unstable right now and need to buy a laptop to program<P>
+ 
+It would be glad if you can help me donating some amount <P>
+ 
+</CENTER>
+
+
+
+
+
+In response to your kind deed, I would laser etch my laptop with your <b>company/startup logo</b>
+and would send you the video of laptop getting lasor etched with your company's logo.
+<br>
+<br>
+<br>
+<CENTER> 
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="5HN8X9Z66C6VQ">
+<table>
+<tr><td><input type="hidden" name="on0" value="Sponser me buying a laptop">Sponser me buying a laptop</td></tr><tr><td><select name="os0">
+	<option value="Thanks">Thanks $5.00 USD</option>
+	<option value="ThanksAlot">ThanksAlot $10.00 USD</option>
+	<option value="BigHug">BigHug $50.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+ 
+
+
+ 
+
+ 
+
+
+<H4>
+<p>Sumit Rawat : sumit94rawat@gmail.com </p> <a href ="https://www.facebook.com/angrysumit" style="color:skyblue;">FB</a> <br><a href ="https://github.com/angrysumit94" style="color:skyblue;">GITHUB</a>
+</H4>
+</CENTER>
+
+</html>
+
+     
